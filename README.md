@@ -1,6 +1,6 @@
 # Manager Rich Presence | MRP
 
-![MRP Logo]([images/0X5QRs7.png](https://media.discordapp.net/attachments/1452446137712644127/1452446158914850826/icon.png?ex=6949d765&is=694885e5&hm=1e1208187edd096b73051a92beac8be3a1ab5ebbbec9eb2096a49c9d9a813744&=&format=webp&quality=lossless&width=550&height=550))
+![MRP Logo](https://media.discordapp.net/attachments/1452446137712644127/1452446158914850826/icon.png?ex=6949d765&is=694885e5&hm=1e1208187edd096b73051a92beac8be3a1ab5ebbbec9eb2096a49c9d9a813744&=&format=webp&quality=lossless&width=550&height=550)
 
 **Manager Rich Presence (MRP)** is a powerful and user-friendly Discord Rich Presence manager that allows full customization of your Discord activity. Designed for both beginners and advanced users, MRP gives you complete control over what your friends see on Discord.
 
