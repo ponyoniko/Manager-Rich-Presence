@@ -1,0 +1,23 @@
+{
+    "app_id": "1378817863879622738",
+    "details": "Bill's Town",
+    "state": "Single Player",
+    "party_current": 1,
+    "party_max": 1,
+    "timestamp_mode": "start",
+    "custom_timestamp": 1583962744,
+    "large_image": "tlou",
+    "large_text": "",
+    "small_image": "",
+    "small_text": "",
+    "buttons": [
+        [
+            "",
+            ""
+        ],
+        [
+            "",
+            ""
+        ]
+    ]
+}

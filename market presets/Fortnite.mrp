@@ -1,0 +1,23 @@
+{
+    "app_id": "1320331261625106534",
+    "details": "Battle Royale",
+    "state": "",
+    "party_current": 25,
+    "party_max": 99,
+    "timestamp_mode": "start",
+    "custom_timestamp": 1734796799,
+    "large_image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_lettermark_logo.png",
+    "large_text": "Fortnite",
+    "small_image": "https://makerworld.bblmw.com/makerworld/model/DSM00000000493988/design/2024-06-12_d15f8e7cea629.png?x-oss-process=image/resize,w_1000/format,webp",
+    "small_text": "Unreal - Tier 567",
+    "buttons": [
+        [
+            "Discord",
+            "https://discord.gg/3FFPFcA4ca"
+        ],
+        [
+            "Cha\u00eene YouTube",
+            "https://www.youtube.com/channel/UCvpNcIpnrXYygwl9h4C07Ug"
+        ]
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "app_id": "1245609060825563268",
+    "details": "Watching",
+    "state": "Movie/Series",
+    "party_current": 0,
+    "party_max": 0,
+    "timestamp_mode": "start",
+    "custom_timestamp": 1664493600,
+    "large_image": "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_scale.size_760x427.v1582751026.png",
+    "large_text": "Netflix Logo",
+    "small_image": "",
+    "small_text": "",
+    "buttons": [
+        [
+            "",
+            ""
+        ],
+        [
+            "",
+            ""
+        ]
+    ]
+}

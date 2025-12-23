@@ -1,0 +1,23 @@
+{
+    "app_id": "1337979124190285936",
+    "details": "Coding",
+    "state": "A++",
+    "party_current": 0,
+    "party_max": 0,
+    "timestamp_mode": "off",
+    "custom_timestamp": 1664493600,
+    "large_image": "https://cdn-icons-png.freepik.com/512/5968/5968350.png?ga=GA1.1.1812278373.1764860271",
+    "large_text": "",
+    "small_image": "",
+    "small_text": "",
+    "buttons": [
+        [
+            "",
+            ""
+        ],
+        [
+            "",
+            ""
+        ]
+    ]
+}

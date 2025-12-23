@@ -1,0 +1,23 @@
+{
+    "app_id": "1333105224226963527",
+    "details": "",
+    "state": "",
+    "party_current": 0,
+    "party_max": 0,
+    "timestamp_mode": "start",
+    "custom_timestamp": 1656794344,
+    "large_image": "",
+    "large_text": "",
+    "small_image": "",
+    "small_text": "",
+    "buttons": [
+        [
+            "",
+            ""
+        ],
+        [
+            "",
+            ""
+        ]
+    ]
+}

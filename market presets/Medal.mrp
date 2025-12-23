@@ -1,0 +1,23 @@
+{
+    "app_id": "307998818547531777",
+    "details": "Clipping {game_name}",
+    "state": "with Medal.tv",
+    "party_current": 0,
+    "party_max": 0,
+    "timestamp_mode": "start",
+    "custom_timestamp": 1701769200,
+    "large_image": "appicon_new",
+    "large_text": "{game_name}",
+    "small_image": "",
+    "small_text": "",
+    "buttons": [
+        [
+            "",
+            ""
+        ],
+        [
+            "",
+            ""
+        ]
+    ]
+}
