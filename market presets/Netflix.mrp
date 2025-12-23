@@ -1,4 +1,5 @@
 {
+    "preset_owner": "ponyoniko",
     "app_id": "1245609060825563268",
     "details": "Watching",
     "state": "Movie/Series",
@@ -21,3 +22,4 @@
         ]
     ]
 }
+
