@@ -45,7 +45,7 @@ For full changelog, see [Changelog](changelog.html)
 ## 💻 Support
 
 If you encounter bugs, have questions, or want to suggest features:  
-- Join our official [Discord Server](https://discord.gg/Ngp5mZZ2)  
+- Join our official [Discord Server](https://discord.gg/Fb7TrshryS)  
 - Use the Support Forum channels to post questions or report issues  
 
 Please follow the ***Discord Support Guidelines*** when posting.
