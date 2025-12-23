@@ -1,4 +1,5 @@
 {
+    "preset_owner": "ponyoniko",
     "app_id": "1320331261625106534",
     "details": "Battle Royale",
     "state": "",
@@ -20,4 +21,5 @@
             "https://www.youtube.com/channel/UCvpNcIpnrXYygwl9h4C07Ug"
         ]
     ]
+
 }
