@@ -1,4 +1,5 @@
 {
+    "preset_owner": "ponyoniko"
     "app_id": "1449562929723740250",
     "details": "The Legend of Zelda: Breath of the Wild",
     "state": "Exploring Hyrule \ud83c\udf3f",
@@ -20,4 +21,5 @@
             ""
         ]
     ]
+
 }
