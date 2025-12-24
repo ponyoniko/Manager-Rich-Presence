@@ -1,0 +1,23 @@
+{
+    "app_id": "1449562929723740250",
+    "details": "The Legend of Zelda: Breath of the Wild",
+    "state": "Exploring Hyrule \ud83c\udf3f",
+    "party_current": 0,
+    "party_max": 0,
+    "timestamp_mode": "custom",
+    "custom_timestamp": 1765672979,
+    "large_image": "https://assets-prd.ignimgs.com/2022/06/14/zelda-breath-of-the-wild-1655249167687.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
+    "large_text": "",
+    "small_image": "",
+    "small_text": "",
+    "buttons": [
+        [
+            "Nintendo eShop",
+            "https://www.nintendo.com/us/store/products/the-legend-of-zelda-breath-of-the-wild-switch/"
+        ],
+        [
+            "",
+            ""
+        ]
+    ]
+}
