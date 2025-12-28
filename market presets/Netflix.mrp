@@ -7,7 +7,7 @@
     "party_max": 0,
     "timestamp_mode": "start",
     "custom_timestamp": 1664493600,
-    "large_image": "https://pngimg.com/uploads/netflix/netflix_PNG15.png",
+    "large_image": "https://cdn.discordapp.com/attachments/1451669786735149129/1454849335270445056/Untitled_Project_-_Artboard_6_4.png?ex=69529587&is=69514407&hm=03045977b5732cd9a35f1e5c7a8bf3e2ec734a737908ef3e99fa2d2a80a32906&",
     "large_text": "Netflix",
     "small_image": "",
     "small_text": "",
@@ -22,5 +22,6 @@
         ]
     ]
 }
+
 
 
